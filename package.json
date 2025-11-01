@@ -1,0 +1,5 @@
+// Initialize React app and install dependencies
+{
+  "scripts": { "start": "react-scripts start" },
+  "dependencies": { "react": "^17.0.0", "tailwindcss": "^2.0.0" }
+}
